@@ -15,3 +15,15 @@ You can repeat clicks over whatever the mouse is hovering over. The click time i
 Finally, the reset button resets the app and clears out the place that you want to click in playback. 
 
 Please enjoy. Any questions or comments, feel free to reach out. Any improvements, send me a PR. 
+
+# Inspiration Section
+
+Cookie Clicker
+https://orteil.dashnet.org/cookieclicker/
+
+Particle Clicker
+https://particle-clicker.web.cern.ch/
+
+Derivative Clicker
+https://gzgreg.github.io/DerivativeClicker/
+
